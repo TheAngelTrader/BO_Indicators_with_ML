@@ -13,7 +13,7 @@
 **Periods:**  
 3, 4, 5, 8, 9, 10, 12, 13, 15, 20, 21, 30, 34, 50, 55, 100, 144, 150, 200
 
-## Types of Moving Averages
+### Types of Moving Averages
 
 - **EMA** (Exponential Moving Average)  
 - **SMA** (Simple Moving Average)  
